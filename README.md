@@ -1,16 +1,16 @@
 # InoueYuta's resume
 
 
-[![textlint](https://img.shields.io/github/actions/workflow/status/iyuta1124/iyuta-resume/lint-text.yml?label=textlint&logo=github&color=yellow)](https://github.com/iyuta1124/iyuta-resume/actions?query=workflow%3A%22lint+text%22)
-[![build pdf](https://img.shields.io/github/actions/workflow/status/iyuta1124/iyuta-resume/build-pdf.yml?label=build%20pdf&logo=github)](https://github.com/iyuta1124/iyuta-resume/actions?query=workflow%3A%22build+pdf%22)
-[![create issue](https://img.shields.io/github/actions/workflow/status/iyuta1124/iyuta-resume/create-issue.yml?label=create%20issue&logo=github&color=orange)](https://github.com/iyuta1124/iyuta-resume/actions?query=workflow%3A%22create+issue%22)
-[![release date](https://img.shields.io/github/release-date/iyuta1124/iyuta-resume?color=blue&logo=github)](https://github.com/iyuta1124/iyuta-resume/releases)
+[![textlint](https://img.shields.io/github/actions/workflow/status/iyuta1124/resume/lint-text.yml?label=textlint&logo=github&color=yellow)](https://github.com/iyuta1124/resume/actions?query=workflow%3A%22lint+text%22)
+[![build pdf](https://img.shields.io/github/actions/workflow/status/iyuta1124/resume/build-pdf.yml?label=build%20pdf&logo=github)](https://github.com/iyuta1124/resume/actions?query=workflow%3A%22build+pdf%22)
+[![create issue](https://img.shields.io/github/actions/workflow/status/iyuta1124/resume/create-issue.yml?label=create%20issue&logo=github&color=orange)](https://github.com/iyuta1124/resume/actions?query=workflow%3A%22create+issue%22)
+[![release date](https://img.shields.io/github/release-date/iyuta1124/resume?color=blue&logo=github)](https://github.com/iyuta1124/resume/releases)
 
 ## Data
 
-- [GitHub Pages](https://iyuta1124.github.io/iyuta-resume/)
-- [PDF](https://github.com/iyuta1124/iyuta-resume/releases)
-- [File](https://github.com/iyuta1124/iyuta-resume/blob/main/docs/index.md)  
+- [GitHub Pages](https://iyuta1124.github.io/resume/)
+- [PDF](https://github.com/iyuta1124/resume/releases)
+- [File](https://github.com/iyuta1124/resume/blob/main/docs/index.md)  
 ## Features
 
 ### 💅 Lint text
