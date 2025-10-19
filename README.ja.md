@@ -5,6 +5,8 @@
 [![create issue](https://img.shields.io/github/actions/workflow/status/iyuta1124/resume/create-issue.yml?label=create%20issue&logo=github&color=orange)](https://github.com/iyuta1124/resume/actions?query=workflow%3A%22create+issue%22)
 [![release date](https://img.shields.io/github/release-date/iyuta1124/resume?color=blue&logo=github)](https://github.com/iyuta1124/resume/releases)
 
+[ [English](https://github.com/iyuta1124/resume) | 日本語 ]
+
 ## Data
 
 - [GitHub Pages](https://iyuta1124.github.io/resume/)
