@@ -11,7 +11,7 @@
 
 - [GitHub Pages](https://iyuta1124.github.io/resume/)
 - [PDF](https://github.com/iyuta1124/resume/releases)
-- [File](https://github.com/iyuta1124/resume/blob/main/docs/index.md)  
+- [File](https://github.com/iyuta1124/resume/blob/master/docs/index.md)  
 
 ## Features
 
