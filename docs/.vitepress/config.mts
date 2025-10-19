@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "CV of Yuta Inoue",
   description: "Yuta Inoueの職務経歴書",
-  base: '/resume/',
+  base: '/iyuta-resume/',
   head: [
     // favicons
     ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: 'favicon/apple-touch-icon.png' }],
@@ -15,10 +15,10 @@ export default defineConfig({
     ['meta', { name: 'msapplication-TileColor', content: '#da532c' }],
     ['meta', { name: 'theme-color', content: '#ffffff' }],
     // ogp
-    ['meta', { property: 'og:image', content: 'https://kawamataryo.github.io/resume/images/og.png' }],
+    ['meta', { property: 'og:image', content: 'https://iyuta1124.github.io/iyuta-resume/images/og.png' }],
     ['meta', { property: 'og:title', content: 'CV of Yuta Inoue' }],
     ['meta', { property: 'og:description', content: 'ソフトウェアエンジニア 井上 裕太の職務経歴書' }],
-    ['meta', { property: 'og:url	', content: 'https://kawamataryo.github.io/resume' }]
+    ['meta', { property: 'og:url	', content: 'https://iyuta1124.github.io/iyuta-resume' }]
   ],
   themeConfig: {
     nav: [
@@ -29,10 +29,10 @@ export default defineConfig({
       level: [2, 3]
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/kawamataryo/resume' }
+      { icon: 'github', link: 'https://github.com/iyuta1124/iyuta-resume' }
     ],
     editLink: {
-      pattern: 'https://github.com/kawamataryo/resume/edit/master/docs/:path'
+      pattern: 'https://github.com/iyuta1124/iyuta-resume/edit/master/docs/:path'
     }
   },
   lastUpdated: true,
