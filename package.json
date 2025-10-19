@@ -1,7 +1,7 @@
 {
   "name": "resume",
   "version": "1.0.0",
-  "description": "kawamataryoの職務経歴書",
+  "description": "井上裕太の職務経歴書",
   "type": "module",
   "scripts": {
     "lint": "textlint docs/README.md",
@@ -12,10 +12,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/kawamataryo/resume.git"
+    "url": "git+ssh://git@github.com/iyuta1124/resume.git"
   },
   "keywords": [],
-  "author": "Ryo Kawamata <ba068082@gmail.com>",
+  "author": "Yuta Inoue",
   "devDependencies": {
     "@textlint-ja/textlint-rule-no-insert-dropping-sa": "^2.0.1",
     "autoprefixer": "^10.4.20",
