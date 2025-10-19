@@ -6,13 +6,13 @@
 [![create issue](https://img.shields.io/github/actions/workflow/status/iyuta1124/resume/create-issue.yml?label=create%20issue&logo=github&color=orange)](https://github.com/iyuta1124/resume/actions?query=workflow%3A%22create+issue%22)
 [![release date](https://img.shields.io/github/release-date/iyuta1124/resume?color=blue&logo=github)](https://github.com/iyuta1124/resume/releases)
 
-[ English | [日本語](https://github.com/iyuta1124/resume/blob/main/README.ja.md) ]
+[ English | [日本語](https://github.com/iyuta1124/resume/blob/master/README.ja.md) ]
 
 ## Data
 
 - [GitHub Pages](https://iyuta1124.github.io/resume/)
 - [PDF](https://github.com/iyuta1124/resume/releases)
-- [File](https://github.com/iyuta1124/resume/blob/main/docs/index.md)  
+- [File](https://github.com/iyuta1124/resume/blob/master/docs/index.md)  
 ## Features
 
 ### 💅 Lint text
