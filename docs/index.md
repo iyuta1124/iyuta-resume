@@ -64,7 +64,7 @@ layout: doc
 
 ## 職務経歴
 
-:::details 2025/01〜現在      [homie株式会社](https://homie.co.jp/) {open}
+:::details  [homie株式会社](https://homie.co.jp/) (2025/01〜現在)      {open}
 
 不動産反響対応・営業支援サービスHOTLEADの開発・運用。
 開発リソースが限られる中で、ユーザーの利便性を高める機能の設計・実装を主導。得意とするフロントエンド開発の経験を活かして、主にフロントエンドの改善活動をリード。
@@ -86,10 +86,9 @@ layout: doc
     - [NuxtLayersによる共通コンポーネント・ロジックの再利用基盤構築（進行中)](https://qiita.com/iyuta1124/private/8e9b80170a77841792d3)
     - [本番環境誤操作防止用Chrome拡張機能の作成・導入](https://qiita.com/iyuta1124/private/4932183e7694d616aa53)
     - ChatGPT連携によるCL新規導入設定の半自動化プロセス構築
-
 :::
 
-:::details 2021/04〜2024/12 [ソフトブレーン株式会社](https://www.softbrain.co.jp/) {open}
+:::details  [ソフトブレーン株式会社](https://www.softbrain.co.jp/) (2021/04〜2024/12) {open}
 
 CRM/SFA「eセールスマネージャー」の開発・運用。
 
@@ -121,27 +120,6 @@ CRM/SFA「eセールスマネージャー」の開発・運用。
 
 - 勤務形態: フルリモートワーク（月数回程度の出社は可）
 
-
-
-<!-- ### アウトプット
-
-#### SpeakerDeck
-[https://speakerdeck.com/iyuta1124](https://speakerdeck.com/iyuta1124)
-
-<SpeakerDeckSlides />
-
-#### Zenn
-[https://zenn.dev/iyuta1124](https://zenn.dev/iyuta1124)
-
-<ZennArticles />
-
-#### Qiita
-[https://qiita.com/iyuta1124](https://qiita.com/iyuta1124)
-
-<QiitaArticles /> -->
-
-
-
 ## 副業・インターン
 
 - **理系学部生に特化した逆求人型の就活サービス（2025/02〜現在）**
@@ -153,7 +131,7 @@ CRM/SFA「eセールスマネージャー」の開発・運用。
   - 使用技術：Java
   - 入社前のインターン。軽微なバグ修正、テストを担当
 - **学生就活用マッチングプラットフォーム（2019/09〜2020/06）**
-  - 担当：実装
+  - 担当：実装、テスト
   - 使用技術：Ruby, Ruby on Rails
   - 学生インターンとしてバックエンドの機能開発、テストを担当
 
