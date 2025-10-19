@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "lint": "textlint docs/README.md",
-    "build:pdf": "node pdf-configs/convert-details.js && md-to-pdf docs/index-pdf.md --config-file ./pdf-configs/config.cjs --output docs/index.pdf",
+    "build:pdf": "node pdf-configs/convert-details.js && md-to-pdf docs/index-pdf.md --config-file ./pdf-configs/config.cjs && mv docs/index-pdf.pdf docs/index.pdf",
     "dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs"
